@@ -1,6 +1,6 @@
 # ExamBro Mod
 
-Modifikasi dari beberapa jenis ExamBro dengan fitur tambahan, termasuk pinning app yang dapat dikontrol dengan hidden gesture.
+Modifikasi dari beberapa jenis ExamBro dengan fitur tambahan, termasuk pinning app yang tidak ada didalamnya.
 
 ## 📥 Download
 
