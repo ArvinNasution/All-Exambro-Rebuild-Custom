@@ -6,7 +6,7 @@ Modifikasi dari beberapa jenis ExamBro dengan fitur tambahan, termasuk pinning a
 
 > **Pilih versi yang sesuai dengan kebutuhan Anda:**
 
-- **V13DB_sman1pangkalpinang** - [Download](https://github.com/ArvinNasution/All-Exambro-Rebuild-Custom/releases/download/apps1/V13DB_sman1pangkalpinang.apk)
+- **V13DB_sman1pangkalpinang** - [Download](https://github.com/ArvinNasution/All-Exambro-Rebuild-Custom/releases/download/apps1/app-release.apk)
 - **E-Smapong** - [Download](https://github.com/ArvinNasution/All-Exambro-Rebuild-Custom/releases/download/apps/app-release-UserAgent-New-Prefix2.apk)
 
 ## 🚀 Fitur
